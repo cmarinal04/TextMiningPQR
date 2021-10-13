@@ -1,0 +1,7 @@
+pyodbc
+cx_Oracle
+pandas
+numpy
+pyopenssl
+cryptography
+pysftp
